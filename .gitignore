@@ -1,3 +1,9 @@
+
+.obsidian/
+.DS_Store
+Thumbs.db
+
+
 devel/
 logs/
 build/
