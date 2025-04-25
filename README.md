@@ -5,7 +5,7 @@ Welcome to the course documentation for the **Mobile Robots**. This is open sour
 ## Table of Contents
 
 
-- [Software Installation (WSL, Ubuntu, ROS 2, MATLAB)](./software-installation.md)
+- [Turtlbot3 setup with Gazebo and Rviz](./installation-guide.md)
 - [Mobile Robots Introduction](./mobile-robots-introduction.md)
 - [ROS Introduction I](./ros-intro-1.md)
 - [ROS Toolbox I](./ros-toolbox-1.md)
